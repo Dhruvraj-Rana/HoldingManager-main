@@ -240,8 +240,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@abhay-maheshwari](https://github.com/abhay-maheshwari)
-- LinkedIn: [maheshwari-abhay](https://linkedin.com/in/maheshwari-abhay)
+- GitHub: [@Dhruvraj-Rana](https://github.com/Dhruvraj-Rana)
+
 
 ## 🙏 Acknowledgments
 
